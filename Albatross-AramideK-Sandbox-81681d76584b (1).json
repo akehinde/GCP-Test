@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "albatross-aramidek-sandbox",
+  "private_key_id": "81681d76584bb7d84cc22f327ce109b1ad9534d2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNu9M75eWfIj/T\nBHJttMRSuoJHQBoriYxRXtYYg/4a6P1dduyld+/5MwrzdiS7a0QAqmDYX6LdjFIN\nkWHPBdf38aap7lqYutwAnPCah+gqQ9n+kB5JVFH6XQQOz6tXMfEnMIS2jN5VV/6F\nN7negReMoPcmADVKtclmIsaxfxyWMmkZLGSluvy+mils6VMd+wkFoo1aTzJjMlPl\nc5GRG1dVNdhVLoj5h5QFGOXU0DHft5yL0TZzH+uUtd4/RyZOw+UzZfMaoQhyLjbQ\nDQeGB62GBgGEOrZWJIq+XNB6EIioGwlDyPD6Fezyhz1Rg3n27b9KJ1z7Q3xNfLPw\nUKDuH4slAgMBAAECggEAG3vS/TZ6FWcq5ZK7gqJac77Mtp3+oQBQCXLE4SOI56lm\nZ30CohxCp6TE+r82qv7qZ7hbFay5AiXDtGJOkaxzLIFQxXS9D5gu2bodfldXkYXc\n8l/oW91y0iJo712Ywx493AFkSUrKTNZjfwJxxyKxtayvN5lhhSiBzi4pIv8bH4lB\nB4ISbo/kJ3G/ewFw401cCjP0q/CEz5wgj3tP8fCnBXyc0MQiLEXQqA04/nHjlLF5\nbYzxj+e6/Q7RAiS1kq3NgBS/y563WntKkUHZHSqj6Ws59FaMm78qusajRgc7zFIE\n24e3MvfD5kDwJX2iSQKtFMpdVvTpVj4ZQs9KYc+KQQKBgQD0PRXqsRb6i8IbpWEu\nLrBwct06DSnjy0C3ZoI/KqKRPorK32OrP2a02bfuPVT/4S6MJIlziHDoqu2Gw8bl\nZoonHT/Xqrh/30wvRFmlk58lBSAROVbLrAaotqZO0A8Ehs+znj4cF/T50wTyta02\nOFgXl/BMUaXY6b86K+ruyzV88QKBgQDXpA9m5szsm/7ULtcvLSgrhPCxT/n639kL\nW5g+N416JaZk/rKZLPS4hHpYtXw/SBpMOogWSR8mzCNz9rp6wzm1QmHg1Bmv++zJ\n3JFOgGg1k26+ZFCTX4fsjvBuK6SnUcBDCJ8S6Vol2sx2dPQgK1S1mdhDiBHUxa7P\nvJppJjiBdQKBgQCme/Exnm88cAHrmGrK8TaCIDoetRRl24mMuop0Blr0SL6RFX86\nHyiihHo1IoeLOHLjQpCTOWFFqCXrJA6zFpd7nBuFpjDHsW2cFqpJDHyB3qGCPCSn\nBucvH/nzZS2nd0GjfW129vmdRbNswlyExhl+U6qQS2OSnZslSwSEq+4U8QKBgEmP\nOYHMsZL1E9Sltdnt+Yn+62xQ7+FYgt2Q/TocETLdrQk+qQX/g+t9pY6lOiEMI4xl\nWw7fGrVNZbqlK6+88O6YGnNrZufVdEzX5Ol2fBXqmRhxd9sN93wGtpWeZah+BqvX\nQQxeddX78UtnUe+3WEoqlM9Ul2CRnrRWjgXYd+YRAoGATiJku5TFxc/SXMxQEiGB\nOvcgGJE/7dFrYkYxVPcHnAT5fY0APfE6lVQHd0qrYIUuEcY458CGG26OR1+WgNHR\nMjXPU9uCldXZU6HMtsjglHBqP2QQSsxO8XjU9Rm6R+w7HYSp2U9y4TdOUxUzPa+M\n+dbC9AXQKw7jy4i7dDBbwuA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudml-api@albatross-aramidek-sandbox.iam.gserviceaccount.com",
+  "client_id": "104530958555319166409",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudml-api%40albatross-aramidek-sandbox.iam.gserviceaccount.com"
+}
