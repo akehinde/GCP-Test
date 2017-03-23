@@ -1,0 +1,4 @@
+export API_KEY=AIzaSyB5oWSstPbJFi9iZfAIpmitwB7evHVtd2g
+echo ${API_KEY}
+curl -s -X POST -H "Content-Type: application/json" --data-binary @https://github.com/akehinde/GCP-Test/blob/master/sync-request
+"https://speech.googleapis.com/v1beta1/speech:syncrecognize?key=${API_KEY}"
